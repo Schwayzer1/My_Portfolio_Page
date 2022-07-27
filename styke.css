@@ -15,6 +15,12 @@ body {
     margin: 0;
     padding: 0;
   }
+  @media screen and ( min-width:1366px) {}
+
+  @media screen and (min-width:960px) and (max-width:1365px) {
+    
+  }
+    
   
   #header {
     background-color: black;
